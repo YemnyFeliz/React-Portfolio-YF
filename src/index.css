@@ -12,6 +12,11 @@ html {
     scroll-behavior: smooth;
 }
 
+/* Nav */
+.nav-link {
+    font-size: 25px;
+}
+
 
 
 

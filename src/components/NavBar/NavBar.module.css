@@ -1,1 +1,14 @@
 @import '../../vars.css';
+
+#Nav {
+    justify-content: space-between;
+    padding-top: 61px;
+}
+
+.navbarbrand {
+    font-size: 30px;
+    font-weight: 300;
+    text-decoration: none;
+    color: var(--color-text);
+}
+
