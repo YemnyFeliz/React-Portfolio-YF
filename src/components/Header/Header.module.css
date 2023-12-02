@@ -20,26 +20,53 @@ h2 {
 }
 
 #profileImg {
-    width: 650px;
+    /* width: 650px;
     height: 350px;
     border-radius: 15%;
     margin-top: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 5%; */
+    width: 18rem;
+    height: 18rem;
+    border-radius: 50%;
+    padding: 0.3rem;
+    /* border: 1px solid black; */
 }
 
-.content {
+#content {
+    padding-top: 2rem;
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-.text {
+/* .container-lg {
+    padding-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+} */
+
+p {
     display: flex;
     flex-direction: column;
     margin-left: 3%;
     font-size: 24px;
+    color: var( --color-text);
+}
+
+h2 {
+    padding-bottom: 3rem;
 }
 
 h3 {
+    padding-bottom: 2rem;
     font-size: 30px;
+    text-align: center;
 }
+#about {
+    padding: 2rem;
+}
+
+
+
+

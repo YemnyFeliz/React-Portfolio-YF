@@ -3,11 +3,11 @@
 :root {
 
     /* Colors */
-    --color-text: #fff;
+    --color-text: #adb5bd;
     --color-primary: #576cbc;
     --color-seconday: #19376d;
     --color-dark: #0b2447;
-    --color-bg: #04152d;
+    --color-bg: #ced4da;
 
     /* Fonts */
     --font-roboto: "Roboto";
