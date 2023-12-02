@@ -1,9 +1,9 @@
 import React from 'react';
-
 import styles from './NavBar.module.css';
+
 const NavBar = () => {
   return (
-    <nav className="navbar navbar-expand-lg bg-body-tertiary fixed-top dark-bg" data-bs-theme="dark" id={styles.Nav}>
+    <nav className="navbar navbar-expand-lg bg-body-tertiary  dark-bg" data-bs-theme="dark" id={styles.Nav}>
 
       <div className="container-fluid">
         <a className={styles.navbarbrand} href="/">Yemny Feliz</a>
